@@ -1,0 +1,4 @@
+leo,action,tamil,2023,7.2,false
+dorothy,drama,tamil,2026,9.0,true
+modha rathiri,drama,tamil,2026,8.0,false
+la la land,rom com,english,2016,8.9,false
